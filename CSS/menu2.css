@@ -1,0 +1,61 @@
+#container{
+    width: 500px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#menu:hover{
+    background-color: chartreuse;
+    color: white;
+}
+#menu{
+    width: 500px;
+    height: 100px;
+    background-color: cadetblue;
+    text-align: center;
+    line-height: 100px;
+}
+#profile:hover{
+    background-color: aqua;
+    color: white;
+}
+#profile{
+    width: 500px;
+    height: 100px;
+    background-color: tomato;
+    text-align: center;
+    line-height: 100px;
+}
+#friends:hover{
+    background-color: blueviolet;
+    color: white;
+}
+#friends{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    line-height: 100px;
+}
+#messages:hover{
+    background-color: teal;
+    color: white;
+}
+#messages{
+    width: 500px;
+    height: 100px;
+    background-color: brown;
+    text-align: center;
+    line-height: 100px;
+}
+#settings:hover{
+    background-color: chocolate;
+    color: white;
+}
+#settings{
+    width: 500px;
+    height: 200px;
+    background-color: purple;
+    text-align: center;
+    line-height: 100px;
+}
